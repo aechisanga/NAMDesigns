@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Version: 1.2.1
   - Updated Bootstrap to version 5.2.2
   - Updated all outdated third party vendor libraries to their latest versions
@@ -17,3 +18,24 @@ Version: 1.0.1
 
 Version: 1.0.0
   - Initial Release
+=======
+Version: 1.2.1
+  - Updated Bootstrap to version 5.2.2
+  - Updated all outdated third party vendor libraries to their latest versions
+
+Version: 1.2.0
+  - Updated Bootstrap to version 5.2.1
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Improved PHP Email From library to ignore server header responses like 409
+
+Version: 1.1.0
+  - Updated Bootstrap to version 5.2.0
+  - Updated all outdated third party vendor libraries to their latest versions
+  - Fixed css font variables quotes
+
+Version: 1.0.1
+  - Fixed mobile nav toggle button issue
+
+Version: 1.0.0
+  - Initial Release
+>>>>>>> c691276b101b23b7d7491cd115f8b8ef3f2c4e5c
